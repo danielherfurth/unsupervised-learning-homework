@@ -6,6 +6,17 @@
 
 * You have been handed raw data, so you will first need to process it to fit the machine learning models. Since there is no known classification system, you will need to use unsupervised learning. You will use several clustering algorithms to explore whether the cryptocurrencies can be grouped together with other similar cryptocurrencies. You will use data visualization to share your findings with the investment bank.
 
+![K Cluster](cluster.png)
+
+The above chart shows three clear clusters via t-SNE. 
+
+After calculating the optimal k-value (depicted in the chart below), the data grouped into more discrete clusters.
+The color scheme helps highlight the discrete clusters.
+
+![Optimal k-Value](optimal_k.png)
+
+![Discrete k-Clusters](discreteks.png)
+
 ## Instructions
 
 ### Data Preparation
@@ -40,9 +51,10 @@
 
 ## Rubric
 
-[Unit 20 - Unsupervised Machine Learning Homework Rubric - Cryptocurrency Clusters](https://docs.google.com/document/d/1zhiC8-PtfMknDxYHagsTukryQAJSdXFRWa-aK3W28Vg/edit?usp=sharing)
+[//]: # ([Unit 20 - Unsupervised Machine Learning Homework Rubric - Cryptocurrency Clusters]&#40;https://docs.google.com/document/d/1zhiC8-PtfMknDxYHagsTukryQAJSdXFRWa-aK3W28Vg/edit?usp=sharing&#41;)
 
-- - -
+[//]: # ()
+[//]: # (- - -)
 
 ## References
 
