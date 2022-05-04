@@ -45,21 +45,27 @@ The color scheme helps highlight the discrete clusters.
 
 * Create an elbow plot to identify the best number of clusters. Use a for-loop to determine the inertia for each `k` between 1 through 10. Determine, if possible, where the elbow of the plot is, and at which value of `k` it appears.
 
-### Recommendation
+[//]: # (### Recommendation)
 
-* Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? 
+[//]: # ()
+[//]: # (* Based on your findings, make a brief &#40;1-2 sentences&#41; recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters? )
 
-## Rubric
+[//]: # ()
+[//]: # (## Rubric)
 
-[//]: # ([Unit 20 - Unsupervised Machine Learning Homework Rubric - Cryptocurrency Clusters]&#40;https://docs.google.com/document/d/1zhiC8-PtfMknDxYHagsTukryQAJSdXFRWa-aK3W28Vg/edit?usp=sharing&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;[Unit 20 - Unsupervised Machine Learning Homework Rubric - Cryptocurrency Clusters]&#40;https://docs.google.com/document/d/1zhiC8-PtfMknDxYHagsTukryQAJSdXFRWa-aK3W28Vg/edit?usp=sharing&#41;&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;&#41;)
+[//]: # ([//]: # &#40;- - -&#41;)
+[//]: # ()
+[//]: # (## References)
+
+[//]: # ()
+[//]: # (Crypto Coin Comparison Ltd. &#40;2020&#41; Coin market capitalization lists of crypto currencies and prices. Retrieved from [https://www.cryptocompare.com/coins/list/all/USD/1]&#40;https://www.cryptocompare.com/coins/list/all/USD/1&#41;)
 
 [//]: # ()
 [//]: # (- - -)
 
-## References
-
-Crypto Coin Comparison Ltd. (2020) Coin market capitalization lists of crypto currencies and prices. Retrieved from [https://www.cryptocompare.com/coins/list/all/USD/1](https://www.cryptocompare.com/coins/list/all/USD/1)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+[//]: # ()
+[//]: # (© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.)
